@@ -1,0 +1,9 @@
+.container{
+    max-width: 900px;
+    margin: 0px auto;
+    border: #000 solid 1px;
+}
+.form-group input{
+    font:  500 16px/20px verdana;
+    color: #000;
+}
